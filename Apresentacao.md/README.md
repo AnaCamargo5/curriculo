@@ -2,7 +2,7 @@
  
  ## Ana Rafaela Oliveira Camargo
  
-## idade:  16 anos
-## email:  anarafaela12camargo@gmail.com
+## Idade:  16 anos
+## Email:  anarafaela12camargo@gmail.com
 ## Telefone: 1899800-7214
-## localização: Presidente Prudente-Sp 
+## Localização: Presidente Prudente-Sp 
