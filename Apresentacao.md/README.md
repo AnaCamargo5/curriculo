@@ -7,7 +7,8 @@
 
 
 ## Objetivo Profissional
- Buscando uma oportunidade como ##Jovem Aprendiz## na área de ##Tecnologia da Informação (TI)##, ##Suporte Técnico## ou ##Apoio Administrativo##, com o objetivo de aprender na prática e evoluir profissionalmente.
+ Buscando uma oportunidade como Jovem Aprendiz na área de Tecnologia da Informação (TI), Suporte Técnico ou Apoio Administrativo
+ Com o objetivo de aprender na prática e evoluir profissionalmente.
  
 
  ## Formação Acadêmica
@@ -23,6 +24,8 @@
 Facilidade com novas tecnologias
 
 Raciocínio lógico
+
+Conhecimento na área de Tecnologia da Informação (TI) 
 
 Organização e Responsabilidade
 
